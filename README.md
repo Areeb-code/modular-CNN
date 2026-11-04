@@ -125,5 +125,6 @@ This project is distributed under the [Apache License 2.0](LICENSE).
 <div align="center">
 
 Built as a practical way to learn the fundamentals of convolutional neural networks.
+Please give a 🌟 if you like this repo
 
 </div>
